@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./depoetisnostrorv00girauoft_0007.png"; bbox 0 0 1716 2687; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 518 987 1196 1027">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 518 987 1196 1027">
+     <span class='ocr_line' id='line_1_1' title="bbox 518 987 1196 1027; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 518 987 673 1025; x_wconf 70' lang='lat' dir='ltr'>Seinem</span> <span class='ocrx_word' id='word_1_2' title='bbox 706 989 1016 1026; x_wconf 69' lang='lat' dir='ltr'>hochverehrten</span> <span class='ocrx_word' id='word_1_3' title='bbox 1048 989 1196 1027; x_wconf 76' lang='lat' dir='ltr'>Lehrer</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 315 1138 1402 1201">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 315 1138 1402 1201">
+     <span class='ocr_line' id='line_1_2' title="bbox 315 1138 1402 1201; baseline 0.003 -3"><span class='ocrx_word' id='word_1_4' title='bbox 315 1138 514 1199; x_wconf 76' lang='lat' dir='ltr'>Herm</span> <span class='ocrx_word' id='word_1_5' title='bbox 558 1139 772 1200; x_wconf 73' lang='lat' dir='ltr'>Hofrat</span> <span class='ocrx_word' id='word_1_6' title='bbox 814 1141 907 1200; x_wconf 77' lang='lat' dir='ltr'>Dr.</span> <span class='ocrx_word' id='word_1_7' title='bbox 946 1140 1092 1200; x_wconf 76' lang='lat' dir='ltr'>Karl</span> <span class='ocrx_word' id='word_1_8' title='bbox 1135 1140 1402 1201; x_wconf 79' lang='lat' dir='ltr'>Schenkl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 557 1319 1154 1367">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 557 1319 1154 1367">
+     <span class='ocr_line' id='line_1_3' title="bbox 557 1319 1154 1367; baseline 0.003 -12"><span class='ocrx_word' id='word_1_9' title='bbox 557 1319 901 1356; x_wconf 52' lang='lat' dir='ltr'>ehffiuvhtsvossst</span> <span class='ocrx_word' id='word_1_10' title='bbox 932 1319 1154 1367; x_wconf 66' lang='lat' dir='ltr'><strong>gewidmet.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
